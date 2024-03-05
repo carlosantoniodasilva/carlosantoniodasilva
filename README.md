@@ -1,9 +1,9 @@
 ### Hi, I'm Carlos, nice to meet you 👋
 
-[@ynab](https://github.com/ynab) developer, 
-[@rails](https://github.com/rails) core team member,
-[@heartcombo](https://github.com/heartcombo) maintainer,
-open source lover ❤️💜💛💚💙,
-hacking beautiful code.
+Software developer, open source lover, 👨🏻‍💻 hacking beautiful code.
 
-Say hello on [twitter](https://twitter.com/cantoniodasilva).
+OSS [@rails](https://github.com/rails), [@heartcombo](https://github.com/heartcombo).
+
+Prevously [@ynab](https://github.com/ynab), [@plataformatec](https://github.com/plataformatec).
+
+Say hello on [X/Twitter](https://twitter.com/cantoniodasilva). ❤️💜💛💚💙
